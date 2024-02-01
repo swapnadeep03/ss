@@ -1,0 +1,14 @@
+AWS account login steps
+1.goto url www.aws.amazon.com
+2.give mail id,aws a/c name
+3.contact information
+4.debit/credit card details
+5.confirm ur identity
+6.enter verification code
+7.select support plan
+8.enter role & interest
+9.thank u msg
+10.login into ur aws a/c
+
+
+
